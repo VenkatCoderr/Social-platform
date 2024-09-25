@@ -22,5 +22,5 @@ Developed a socialmedia application using Java and the Spring Framework. Impleme
 - JUnit was used for unit testing to ensure code quality and functionality. It helped in writing and running tests for various components, verifying that the application logic was correct.
   
 - MySQL was the chosen database management system for storing and managing application data. It supported complex queries and provided reliable data storage and retrieval.
-- 
+ 
 
